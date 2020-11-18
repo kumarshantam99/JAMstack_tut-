@@ -7,7 +7,7 @@ GraphQL is being used to communicate with Fauna DB schema.
 
 <img
 src=“./temp1.jpg”
-raw=true
+
 alt=“Subject Pronouns”
 style=“margin-right: 10px;width:300px;height:200px;”
 />
