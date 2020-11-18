@@ -5,9 +5,4 @@ Based on the cloudflare assessment test, I will be using Netlify cloud functions
 Routes: create, update, read and delete a link. 
 GraphQL is being used to communicate with Fauna DB schema. 
 
-<img
-src=“./temp1.jpg”
-
-alt=“Subject Pronouns”
-style=“margin-right: 10px;width:300px;height:200px;”
-/>
+![Screenshot](temp1.jpg)
